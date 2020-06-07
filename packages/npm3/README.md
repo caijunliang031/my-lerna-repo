@@ -1,2 +1,2 @@
 # base_cjl
-test lerna
+test lerna base npm

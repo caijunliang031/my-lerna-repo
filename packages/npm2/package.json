@@ -22,5 +22,9 @@
   },
   "bugs": {
     "url": "https://github.com/caijunliang031/my-lerna-repo/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "npm3": "^1.1.1"
   }
 }

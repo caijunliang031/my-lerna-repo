@@ -2,6 +2,4 @@
 
 const npm1 = require('..');
 
-describe('npm1', () => {
-    it('needs tests');
-});
+console.log("test");

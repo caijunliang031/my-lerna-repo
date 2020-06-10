@@ -18,9 +18,10 @@
     "url": "git+https://github.com/caijunliang031/my-lerna-repo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "node ./__tests__/npm1.test.js"
   },
   "bugs": {
     "url": "https://github.com/caijunliang031/my-lerna-repo/issues"
-  }
+  },
+  "gitHead": "bedba25f512618702f52e7a275b5274f206e96f3"
 }

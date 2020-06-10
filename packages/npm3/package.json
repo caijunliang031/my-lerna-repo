@@ -1,0 +1,7 @@
+{
+  "name": "npm3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "caijunliang <caijunliang@bytedance.com>",
+  "license": "MIT"
+}

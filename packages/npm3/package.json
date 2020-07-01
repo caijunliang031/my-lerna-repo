@@ -4,5 +4,8 @@
   "main": "index.js",
   "author": "caijunliang <caijunliang@bytedance.com>",
   "license": "MIT",
-  "gitHead": "bedba25f512618702f52e7a275b5274f206e96f3"
+  "gitHead": "bedba25f512618702f52e7a275b5274f206e96f3",
+  "dependencies": {
+    "axios": "0.16.0"
+  }
 }

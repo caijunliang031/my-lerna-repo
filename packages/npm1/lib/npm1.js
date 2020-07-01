@@ -4,5 +4,5 @@ module.exports = npm1;
 
 function npm1() {
     // TODO
-    console.log("test");
+    console.log("change");
 }

@@ -1,6 +1,6 @@
 {
   "name": "npm2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "caijunliang <caijunliang@bytedance.com>",
   "homepage": "https://github.com/caijunliang031/my-lerna-repo#readme",
@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "npm1": "^0.0.4"
+    "npm1": "^0.0.5"
   }
 }

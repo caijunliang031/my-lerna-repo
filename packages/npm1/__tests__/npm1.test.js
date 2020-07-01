@@ -2,4 +2,4 @@
 
 const npm1 = require('..');
 
-console.log("test");
+console.log("change");

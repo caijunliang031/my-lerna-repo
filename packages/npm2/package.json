@@ -26,5 +26,6 @@
   "dependencies": {
     "axios": "^0.19.2",
     "npm1": "^0.0.5"
-  }
+  },
+  "gitHead": "90a979ef5f26dcb4eed064f191adf525f75dcd65"
 }

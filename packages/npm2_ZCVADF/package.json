@@ -1,5 +1,5 @@
 {
-  "name": "npm2_ZCVADF",
+  "name": "npm2_zcvadf",
   "version": "0.0.5",
   "description": "> TODO: description",
   "author": "caijunliang <caijunliang@bytedance.com>",
@@ -27,5 +27,5 @@
     "axios": "^0.19.2",
     "npm1_ZCVADF": "^0.0.6"
   },
-  "gitHead": "56d9e4f8504d466ddf7b9ce6224c9ef87f7c5425"
+  "gitHead": "3551f9ac03c7d283fd7ca4aea0ab2674d53c3165"
 }

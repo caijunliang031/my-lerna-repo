@@ -1,5 +1,5 @@
 {
-  "name": "npm1_ZCVADF",
+  "name": "npm1_zcvadf",
   "version": "0.0.6",
   "description": "> TODO: description",
   "author": "caijunliang <caijunliang@bytedance.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/caijunliang031/my-lerna-repo/issues"
   },
-  "gitHead": "56d9e4f8504d466ddf7b9ce6224c9ef87f7c5425"
+  "gitHead": "3551f9ac03c7d283fd7ca4aea0ab2674d53c3165"
 }

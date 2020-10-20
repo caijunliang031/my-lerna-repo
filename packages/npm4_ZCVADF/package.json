@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test2": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "90a979ef5f26dcb4eed064f191adf525f75dcd65"
+  "gitHead": "9a81930020a9ef15decc6ab16dc158c28e1dcfc6"
 }

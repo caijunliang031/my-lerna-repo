@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.10](https://github.com/caijunliang031/my-lerna-repo/compare/v0.1.9...v0.1.10) (2020-12-14)
+
+
+### Features
+
+* add version ([4ba8096](https://github.com/caijunliang031/my-lerna-repo/commit/4ba8096d130e8c7083f4c519e1fdf6fb6045788c))
+
 ### [0.1.9](https://github.com/caijunliang031/my-lerna-repo/compare/v0.1.9-alpha.2...v0.1.9) (2020-12-14)
 
 ### [0.1.9-alpha.2](https://github.com/caijunliang031/my-lerna-repo/compare/v0.1.9-alpha.1...v0.1.9-alpha.2) (2020-12-14)

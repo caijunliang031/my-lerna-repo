@@ -1,6 +1,6 @@
 {
   "name": "npm2_zcvadfaa",
-  "version": "0.1.15",
+  "version": "0.1.16-beta.0",
   "description": "> TODO: description",
   "author": "caijunliang <caijunliang@bytedance.com>",
   "homepage": "https://github.com/caijunliang031/my-lerna-repo#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/caijunliang031/my-lerna-repo/issues"
   },
   "dependencies": {
-    "npm1_zcvadfaa": "^0.1.14"
+    "npm1_zcvadfaa": "^0.1.15-beta.0"
   },
   "gitHead": "3551f9ac03c7d283fd7ca4aea0ab2674d53c3165"
 }

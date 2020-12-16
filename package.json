@@ -5,5 +5,11 @@
     "lerna": "^3.22.0",
     "standard-version": "^9.0.0"
   },
-  "version": "0.1.17"
+  "version": "0.1.17",
+  "scripts": {
+    "install": "lerna bootstrap",
+    "version": "lerna version --no-commit-hooks --no-push",
+    "version-beta": "lerna version --preid beta --no-push --no-commit-hooks",
+    "version-alpha": "lerna version --preid alpha --no-push --no-commit-hooks"
+  }
 }

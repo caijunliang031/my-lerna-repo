@@ -1,6 +1,6 @@
 {
   "name": "npm4_zcvadfaa",
-  "version": "1.1.6-beta.0",
+  "version": "1.1.6-beta.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "gitHead": "c830743d69c25033f967fcb5724adf6293d7455b",
   "dependencies": {
-    "npm2_zcvadfaa": "^0.1.16-beta.0"
+    "npm2_zcvadfaa": "^0.1.16-beta.1"
   }
 }

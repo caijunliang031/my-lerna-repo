@@ -9,7 +9,7 @@
   "scripts": {
     "install": "lerna bootstrap",
     "version": "lerna version --no-commit-hooks --no-push",
-    "version-beta": "lerna version --preid beta --no-push --no-commit-hooks",
-    "version-alpha": "lerna version --preid alpha --no-push --no-commit-hooks"
+    "version-beta": "lerna version --preid beta --no-commit-hooks --no-push",
+    "version-alpha": "lerna version --preid alpha --no-commit-hooks --no-push"
   }
 }

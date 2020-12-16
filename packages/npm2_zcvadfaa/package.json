@@ -24,7 +24,6 @@
     "url": "https://github.com/caijunliang031/my-lerna-repo/issues"
   },
   "dependencies": {
-    "axios": "^0.19.2",
     "npm1_zcvadfaa": "^0.1.13"
   },
   "gitHead": "3551f9ac03c7d283fd7ca4aea0ab2674d53c3165"

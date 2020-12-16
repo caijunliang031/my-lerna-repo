@@ -119,7 +119,6 @@ typings/
 .DS_Store
 build/
 
-package-lock.json
 .rts2_cache_esm
 .rts2_cache_cjs
 dist

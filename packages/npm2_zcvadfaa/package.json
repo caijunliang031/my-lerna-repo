@@ -18,7 +18,7 @@
     "url": "git+https://github.com/caijunliang031/my-lerna-repo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo 111"
   },
   "bugs": {
     "url": "https://github.com/caijunliang031/my-lerna-repo/issues"

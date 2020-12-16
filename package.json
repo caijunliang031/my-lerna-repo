@@ -8,7 +8,7 @@
   "version": "0.1.17",
   "scripts": {
     "install": "lerna bootstrap",
-    "versions": "lerna version --no-commit-hooks --no-push ",
+    "versions": "lerna version --preid beta --no-commit-hooks",
     "publish-beta": "lerna publish from-git --dist-tag beta -y --no-commit-hooks --no-push --no-git-tag-version --no-git-reset",
     "version-alpha": "lerna version --preid alpha --no-commit-hooks --no-push"
   }

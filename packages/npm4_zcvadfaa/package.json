@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "3551f9ac03c7d283fd7ca4aea0ab2674d53c3165",
+  "gitHead": "c830743d69c25033f967fcb5724adf6293d7455b",
   "dependencies": {
     "npm2_zcvadfaa": "^0.1.16-beta.0"
   }

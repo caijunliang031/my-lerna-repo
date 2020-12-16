@@ -4,5 +4,5 @@ module.exports = npm1;
 
 function npm1() {
     // TODO
-    console.log("2212lal12345211155511111a   lafasdfl322211111222lalala3");
+    console.log("2212lal12345211155511111a lala  lafasdfl322211111222lalala3");
 }
